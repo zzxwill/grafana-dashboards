@@ -277,7 +277,7 @@
       },
       "targets": [
         {
-          "expr": "{namespace=\"vela-system\"}|~ \"(?i)$searchable_pattern\" ",
+          "expr": "{namespace=\"$NameSpace\"}|~ \"(?i)$searchable_pattern\" ",
           "hide": false,
           "refId": "A"
         }
