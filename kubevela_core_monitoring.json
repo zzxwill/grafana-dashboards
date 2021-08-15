@@ -518,7 +518,7 @@
       "timeShift": null,
       "title": "Microservice (container name) resource statistics",
       "transform": "table",
-      "type": "table-old"
+      "type": "table"
     },
     {
       "columns": [],
@@ -1095,7 +1095,7 @@
       "timeShift": null,
       "title": "Pod resource details",
       "transform": "table",
-      "type": "table-old"
+      "type": "table"
     },
     {
       "collapsed": false,
