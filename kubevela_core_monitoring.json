@@ -90,7 +90,7 @@
         "h": 6,
         "w": 24,
         "x": 0,
-        "y": 21
+        "y": 1
       },
       "id": 57,
       "pageSize": null,
@@ -518,7 +518,7 @@
       "timeShift": null,
       "title": "Microservice (container name) resource statistics",
       "transform": "table",
-      "type": "table"
+      "type": "table-old"
     },
     {
       "columns": [],
@@ -1095,7 +1095,7 @@
       "timeShift": null,
       "title": "Pod resource details",
       "transform": "table",
-      "type": "table"
+      "type": "table-old"
     },
     {
       "collapsed": false,
