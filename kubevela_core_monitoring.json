@@ -1745,7 +1745,7 @@
     ]
   },
   "timezone": "browser",
-  "title": "KubeVela Core System Monitoring Dashboard",
-  "uid": "kubevela_core_monitoring",
+  "title": "Logging PoC",
+  "uid": "poc",
   "version": 6
 }
